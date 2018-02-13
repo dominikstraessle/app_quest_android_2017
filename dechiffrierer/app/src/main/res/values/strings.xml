@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dechiffrierer</string>
+    <string name="button_foto">Bild</string>
+    <string name="button_log">Log Eintragen</string>
+    <string name="button_log_eintragen">Eintragen</string>
+    <string name="button_log_cancel">Abbrechen</string>
+    <string name="dialog_log_title">Logbuch Eintrag</string>
+    <string name="logbuch_not_installed">Logbuch nicht installiert</string>
+    <string name="button_foto_2">Preview</string>
+</resources>
